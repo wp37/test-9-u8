@@ -1,5 +1,6 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/quiz-global9-unit7-8.html" }
+    { "source": "/", "destination": "/quiz-unit8-tourism.html" },
+    { "source": "/unit8", "destination": "/quiz-unit8-tourism.html" }
   ]
 }
